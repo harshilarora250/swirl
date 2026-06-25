@@ -1,0 +1,19 @@
+body {
+    background-color: #FDDF9D;
+    font-family: "Fredoka", sans-serif;
+    font-weight: 400;
+    font-size: 1.5rem;
+    color: #795400;
+}
+
+.container404 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+.backhome {
+    margin-top: 10px;
+}
